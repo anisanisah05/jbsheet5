@@ -9,11 +9,15 @@ package Praktikum;
  *
  * @author NISAH~05
  */
-public class tesp2 {
-    
-static void myMethod() throws ClassNotFoundException {
-    throw new ClassNotFoundException ("just a demo");
-
-}
-
+public class Finally {
+    public static void main(String[] args) {
+        try
+        {
+            //int a = 1/0;
+        }
+        finally
+        {
+            System.out.println("Terima kasih");
+        }
+    }
 }
