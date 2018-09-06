@@ -2,7 +2,7 @@
 
 Latihan1
 
-![alt text](https://github.com/anisanisah05/jbshee5/blob/master/1.PNG)
+![alt text](https://github.com/anisanisah05/jbsheet5/blob/master/1.PNG)
 
 ![alt text](https://github.com/anisanisah05/jbsheet5/blob/master/1a.PNG)
 
